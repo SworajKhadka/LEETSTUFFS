@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0070-climbing-stairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -21,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
