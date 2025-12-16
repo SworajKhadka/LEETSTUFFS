@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0263-ugly-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Binary Search
 |  |
