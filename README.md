@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0268-missing-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,20 +53,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0268-missing-number) |
 ## Trie
 |  |
 | ------- |
