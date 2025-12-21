@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0509-fibonacci-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Binary Search
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
