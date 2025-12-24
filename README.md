@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0628-maximum-product-of-three-numbers) |
+| [0976-largest-perimeter-triangle](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0976-largest-perimeter-triangle) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Binary Search
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0628-maximum-product-of-three-numbers) |
+| [0976-largest-perimeter-triangle](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0976-largest-perimeter-triangle) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0628-maximum-product-of-three-numbers) |
+| [0976-largest-perimeter-triangle](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0976-largest-perimeter-triangle) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -114,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0258-add-digits) |
+## Greedy
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
