@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0628-maximum-product-of-three-numbers) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0125-valid-palindrome) |
+| [0415-add-strings](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0415-add-strings) |
 ## String Matching
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0415-add-strings) |
 ## Number Theory
 |  |
 | ------- |
