@@ -8,11 +8,8 @@ class Solution {
             }
         }
 
-        for(int k=j;k<nums.length;k++){
-            nums[k]=0;
-        }
-        for (int l=0;l<nums.length;l++){
-            System.out.print(nums[l]);
+        while(j<nums.length){
+            nums[j++]=0;
         }
 
 
