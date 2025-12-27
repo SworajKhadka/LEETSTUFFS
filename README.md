@@ -142,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
