@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1757-recyclable-and-low-fat-products](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1789-primary-department-for-each-employee) |
 | [1795-rearrange-products-table](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1795-rearrange-products-table) |
+| [1873-calculate-special-bonus](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1873-calculate-special-bonus) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3465-find-products-with-valid-serial-numbers) |
 <!---LeetCode Topics End-->
