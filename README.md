@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-calculate-special-bonus](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1890-the-latest-login-in-2020) |
 | [1965-employees-with-missing-information](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1965-employees-with-missing-information) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3436-find-valid-emails](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3436-find-valid-emails) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3465-find-products-with-valid-serial-numbers) |
