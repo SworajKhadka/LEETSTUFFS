@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0349-intersection-of-two-arrays) |
+| [0566-reshape-the-matrix](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0976-largest-perimeter-triangle) |
 ## Sorting
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0415-add-strings) |
+| [0566-reshape-the-matrix](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0566-reshape-the-matrix) |
 ## Number Theory
 |  |
 | ------- |
@@ -214,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3436-find-valid-emails](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3436-find-valid-emails) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3465-find-products-with-valid-serial-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
