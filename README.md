@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0171-excel-sheet-column-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0415-add-strings) |
 ## String Matching
 |  |
