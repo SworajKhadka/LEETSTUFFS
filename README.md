@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3465-find-products-with-valid-serial-numbers](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3465-find-products-with-valid-serial-numbers) |
 | [3475-dna-pattern-recognition](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3475-dna-pattern-recognition) |
 | [3497-analyze-subscription-conversion](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3497-analyze-subscription-conversion) |
+| [3521-find-product-recommendation-pairs](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3521-find-product-recommendation-pairs) |
 | [3586-find-covid-recovery-patients](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3586-find-covid-recovery-patients) |
 ## Matrix
 |  |
