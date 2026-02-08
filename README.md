@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0088-merge-sorted-array) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0205-isomorphic-strings) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0867-transpose-matrix) |
