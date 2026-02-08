@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0349-intersection-of-two-arrays) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
