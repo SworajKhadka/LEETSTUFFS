@@ -1,33 +1,22 @@
 class Solution {
     public int[] productExceptSelf(int[] nums) {
-       int n = nums.length;
-       int[] ans = new int[n];
-       int mul = 1;
-       int count = 0;
-       // Calculate product of all non-zero elements and count zeros
-       for (int i = 0; i < n; i++) {
-           if (nums[i] == 0) {
-               count++;
-           } else {
-               mul *= nums[i];
-           }
-       }
-       // Fill the answer array
-       for (int i = 0; i < n; i++) {
-           if (nums[i] != 0) {
-               if (count == 0) {
-                   ans[i] = mul / nums[i]; // No zeros, normal division
-               } else {
-                   ans[i] = 0; // If there's a zero, this element becomes 0
-               }
-           } else {
-               if (count == 1) {
-                   ans[i] = mul; // If only one zero, put the product
-               } else {
-                   ans[i] = 0; // If more than one zero, everything is 0
-               }
-           }
-       }
-       return ans;
-   }
+        int n=nums.length;
+        int [] prefix= new int[n];
+        int [] suffix= new int[n];
+        int [] ans= new int[n];
+        prefix[0]=1;
+        suffix[n-1]=1;
+        for(int i=1;i<n;i++){
+            prefix[i]=prefix[i-1]*nums[i-1];
+        }
+        for(int i=n-2;i>=0;i--){
+            suffix[i]=suffix[i+1]*nums[i+1];
+        }
+
+        for(int i=0;i<n;i++){
+            ans[i]=prefix[i]*suffix[i];
+        }
+        return ans;
+    }
 }
+
