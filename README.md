@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0367-valid-perfect-square) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0349-intersection-of-two-arrays) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0485-max-consecutive-ones) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0405-convert-a-number-to-hexadecimal) |
