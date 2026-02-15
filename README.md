@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0704-binary-search) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0389-find-the-difference) |
+| [0561-array-partition](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0976-largest-perimeter-triangle](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0976-largest-perimeter-triangle) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0680-valid-palindrome-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0976-largest-perimeter-triangle) |
 | [1323-maximum-69-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1323-maximum-69-number) |
@@ -397,4 +400,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0560-subarray-sum-equals-k) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
