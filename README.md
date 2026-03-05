@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0804-unique-morse-code-words) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0867-transpose-matrix) |
+| [0912-sort-an-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0976-largest-perimeter-triangle) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0912-sort-an-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0976-largest-perimeter-triangle) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0191-number-of-1-bits) |
+| [0912-sort-an-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -426,4 +429,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
