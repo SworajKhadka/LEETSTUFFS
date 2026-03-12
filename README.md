@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1539-kth-missing-positive-number) |
+| [2032-two-out-of-three](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2032-two-out-of-three) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2540-minimum-common-value) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [2032-two-out-of-three](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2032-two-out-of-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0705-design-hashset) |
 | [0804-unique-morse-code-words](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0804-unique-morse-code-words) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2032-two-out-of-three](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2032-two-out-of-three) |
 | [2540-minimum-common-value](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2540-minimum-common-value) |
 | [2965-find-missing-and-repeated-values](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2965-find-missing-and-repeated-values) |
 ## Trie
