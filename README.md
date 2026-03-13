@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2235-add-two-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2965-find-missing-and-repeated-values) |
+| [3536-maximum-product-of-two-digits](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
