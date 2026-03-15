@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0917-reverse-only-letters) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2540-minimum-common-value](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0976-largest-perimeter-triangle) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1539-kth-missing-positive-number) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2032-two-out-of-three](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2032-two-out-of-three) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0976-largest-perimeter-triangle) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2706-buy-two-chocolates](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2706-buy-two-chocolates) |
