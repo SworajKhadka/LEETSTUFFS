@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0804-unique-morse-code-words) |
 | [0917-reverse-only-letters](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0917-reverse-only-letters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1816-truncate-sentence](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1816-truncate-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1903-largest-odd-number-in-string) |
 | [3794-reverse-string-prefix](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3794-reverse-string-prefix) |
 ## String Matching
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1539-kth-missing-positive-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1816-truncate-sentence](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1816-truncate-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2032-two-out-of-three](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2032-two-out-of-three) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2089-find-target-indices-after-sorting-array) |
