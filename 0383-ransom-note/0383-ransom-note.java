@@ -11,9 +11,7 @@ class Solution {
         // 2. Subtract characters needed for the ransomNote
         for (char c : ransomNote.toCharArray()) {
             counts[c - 'a']--;
-        }
-        for(int i=0;i<26;i++){
-            if(counts[i]<0){
+            if(counts[c-'a']<0){
                 return false;
             }
         }
