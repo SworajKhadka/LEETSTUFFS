@@ -4,13 +4,8 @@ class Solution {
         char [] ch = s1.toCharArray();
         //check if the first letter is matching. 
         for(int i=0;i<n;i++){
-            int a =i;
-            if(ch[i]==s2.charAt(i)){
-                a++;
-                int j = a+2;
-            }
-            else{
-                int j=a+2;
+            if(ch[i]!=s2.charAt(i)){
+                int j = i+2;
                 if(j<n){
                 char temp  = ch[i];
                 ch[i]= ch[j];
