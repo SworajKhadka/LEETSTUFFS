@@ -3,10 +3,7 @@ class Solution {
         String Str = s.toLowerCase();
         String cstr = Str.replaceAll("[^a-z0-9]", "");
 
-        String pal = "";
-        for (int i = cstr.length() - 1; i >= 0; i--) {
-            pal += cstr.charAt(i);
-        }
+        String pal = new StringBuilder(cstr).reverse().toString();
 
         return cstr.equals(pal);
     }
