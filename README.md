@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0392-is-subsequence) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0415-add-strings) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0389-find-the-difference) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0560-subarray-sum-equals-k](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0705-design-hashset) |
 | [0804-unique-morse-code-words](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0804-unique-morse-code-words) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0191-number-of-1-bits) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0912-sort-an-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0219-contains-duplicate-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Queue
 |  |
 | ------- |
