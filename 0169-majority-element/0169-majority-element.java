@@ -1,23 +1,19 @@
+import java.util.*;
+
 class Solution {
     public int majorityElement(int[] nums) {
-        int ans = nums[0];
-        int count = 1;
-        for(int i=1;i<nums.length;i++){
-            if (nums[i]==ans){
-                count++;
-            }
-            else{
-                count--;
-                if(count==0){
-                    ans = nums[i];
-                    count++;
-                }
+        HashMap<Integer, Integer> map = new HashMap<>();
+        int n = nums.length;
+
+        for (int num : nums) {
+            map.put(num, map.getOrDefault(num, 0) + 1);
+
+            // optimization: check during insertion
+            if (map.get(num) > n / 2) {
+                return num;
             }
         }
-        return ans;
 
-
-        
-    }     
-    
+        return -1; // in case majority not guaranteed
+    }
 }
