@@ -14,6 +14,6 @@ class Solution {
             }
         }
 
-        return -1; // in case majority not guaranteed
+        return -1; // in case majority not guaranteed in the array
     }
 }
