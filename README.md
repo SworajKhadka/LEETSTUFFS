@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2965-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3536-maximum-product-of-two-digits](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3536-maximum-product-of-two-digits) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3701-compute-alternating-sum](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3701-compute-alternating-sum) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3146-permutation-difference-between-two-strings](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3146-permutation-difference-between-two-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Trie
 |  |
 | ------- |
