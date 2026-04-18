@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3536-maximum-product-of-two-digits](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3536-maximum-product-of-two-digits) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3783-mirror-distance-of-an-integer) |
 ## Binary Search
 |  |
 | ------- |
