@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1816-truncate-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1903-largest-odd-number-in-string) |
+| [2833-furthest-point-from-origin](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3146-permutation-difference-between-two-strings) |
 | [3794-reverse-string-prefix](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3794-reverse-string-prefix) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0387-first-unique-character-in-a-string) |
 | [2248-intersection-of-multiple-arrays](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2248-intersection-of-multiple-arrays) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2833-furthest-point-from-origin](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2833-furthest-point-from-origin) |
 ## Database
 |  |
 | ------- |
