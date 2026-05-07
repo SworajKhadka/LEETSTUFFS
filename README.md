@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1360-number-of-days-between-two-dates](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1360-number-of-days-between-two-dates) |
 | [1408-string-matching-in-an-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1408-string-matching-in-an-array) |
 | [1528-shuffle-string](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1528-shuffle-string) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1816-truncate-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1903-largest-odd-number-in-string) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1748-sum-of-unique-elements) |
 | [2032-two-out-of-three](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2032-two-out-of-three) |
