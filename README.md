@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1768-merge-strings-alternately) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2000-reverse-prefix-of-word](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2367-number-of-arithmetic-triplets) |
 | [2540-minimum-common-value](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1903-largest-odd-number-in-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2000-reverse-prefix-of-word](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2833-furthest-point-from-origin](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3146-permutation-difference-between-two-strings) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2032-two-out-of-three) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2248-intersection-of-multiple-arrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2367-number-of-arithmetic-triplets) |
