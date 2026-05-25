@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2367-number-of-arithmetic-triplets) |
+| [2465-number-of-distinct-averages](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2248-intersection-of-multiple-arrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2367-number-of-arithmetic-triplets) |
+| [2465-number-of-distinct-averages](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2465-number-of-distinct-averages) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2248-intersection-of-multiple-arrays) |
+| [2465-number-of-distinct-averages](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2465-number-of-distinct-averages) |
 | [2706-buy-two-chocolates](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2248-intersection-of-multiple-arrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2367-number-of-arithmetic-triplets) |
+| [2465-number-of-distinct-averages](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2615-sum-of-distances](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2615-sum-of-distances) |
