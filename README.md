@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0680-valid-palindrome-ii) |
+| [0821-shortest-distance-to-a-character](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0709-to-lower-case) |
 | [0804-unique-morse-code-words](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0804-unique-morse-code-words) |
+| [0821-shortest-distance-to-a-character](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0917-reverse-only-letters) |
 | [1002-find-common-characters](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1002-find-common-characters) |
 | [1108-defanging-an-ip-address](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1108-defanging-an-ip-address) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0804-unique-morse-code-words](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0804-unique-morse-code-words) |
+| [0821-shortest-distance-to-a-character](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0821-shortest-distance-to-a-character) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0896-monotonic-array) |
