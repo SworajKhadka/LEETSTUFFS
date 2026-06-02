@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0414-third-maximum-number) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0389-find-the-difference) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0383-ransom-note) |
@@ -471,12 +474,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0912-sort-an-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -643,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
@@ -652,9 +658,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0912-sort-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
