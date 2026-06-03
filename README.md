@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0917-reverse-only-letters) |
 | [1002-find-common-characters](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1002-find-common-characters) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1108-defanging-an-ip-address) |
 | [1360-number-of-days-between-two-dates](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1360-number-of-days-between-two-dates) |
 | [1408-string-matching-in-an-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1408-string-matching-in-an-array) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0232-implement-queue-using-stacks) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2000-reverse-prefix-of-word) |
 ## Recursion
 |  |
