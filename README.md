@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3146-permutation-difference-between-two-strings) |
+| [3174-clear-digits](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3174-clear-digits) |
 | [3794-reverse-string-prefix](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3884-first-matching-character-from-both-ends) |
 ## String Matching
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0232-implement-queue-using-stacks) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2000-reverse-prefix-of-word) |
+| [3174-clear-digits](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3174-clear-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0867-transpose-matrix) |
+| [3174-clear-digits](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3174-clear-digits) |
 | [3701-compute-alternating-sum](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3701-compute-alternating-sum) |
 ## Number Theory
 |  |
