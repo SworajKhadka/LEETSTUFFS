@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0706-design-hashmap) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0804-unique-morse-code-words](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0804-unique-morse-code-words) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0575-distribute-candies) |
 | [0697-degree-of-an-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0706-design-hashmap) |
 | [0804-unique-morse-code-words](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0904-fruit-into-baskets](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0904-fruit-into-baskets) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0706-design-hashmap) |
 ## Sliding Window
 |  |
 | ------- |
@@ -622,10 +625,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0232-implement-queue-using-stacks) |
 | [0705-design-hashset](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0706-design-hashmap) |
 ## Interactive
 |  |
 | ------- |
