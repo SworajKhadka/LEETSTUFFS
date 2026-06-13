@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2574-left-and-right-sum-differences) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2615-sum-of-distances](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2706-buy-two-chocolates](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2706-buy-two-chocolates) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2615-sum-of-distances](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2848-points-that-intersect-with-cars](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2848-points-that-intersect-with-cars) |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2367-number-of-arithmetic-triplets) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Prefix Sum
 |  |
