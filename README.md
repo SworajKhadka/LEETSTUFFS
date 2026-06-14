@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1816-truncate-sentence) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1991-find-the-middle-index-in-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1991-find-the-middle-index-in-array) |
 | [2032-two-out-of-three](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2032-two-out-of-three) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -667,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0724-find-pivot-index) |
+| [1991-find-the-middle-index-in-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2615-sum-of-distances) |
 | [2848-points-that-intersect-with-cars](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2848-points-that-intersect-with-cars) |
