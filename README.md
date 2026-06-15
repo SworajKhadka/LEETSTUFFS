@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2848-points-that-intersect-with-cars](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2848-points-that-intersect-with-cars) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2965-find-missing-and-repeated-values) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2848-points-that-intersect-with-cars](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2848-points-that-intersect-with-cars) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2965-find-missing-and-repeated-values) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3146-permutation-difference-between-two-strings](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3146-permutation-difference-between-two-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2248-intersection-of-multiple-arrays) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2833-furthest-point-from-origin](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2833-furthest-point-from-origin) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Database
 |  |
