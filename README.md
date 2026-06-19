@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1539-kth-missing-positive-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1732-find-the-highest-altitude](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1816-truncate-sentence](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1816-truncate-sentence) |
@@ -680,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0724-find-pivot-index) |
+| [1732-find-the-highest-altitude](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2615-sum-of-distances) |
