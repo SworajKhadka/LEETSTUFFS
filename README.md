@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1002-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1108-defanging-an-ip-address) |
+| [1189-maximum-number-of-balloons](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1189-maximum-number-of-balloons) |
 | [1360-number-of-days-between-two-dates](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1360-number-of-days-between-two-dates) |
 | [1408-string-matching-in-an-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1408-string-matching-in-an-array) |
 | [1528-shuffle-string](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1528-shuffle-string) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0904-fruit-into-baskets](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0904-fruit-into-baskets) |
 | [1002-find-common-characters](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1002-find-common-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1189-maximum-number-of-balloons](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
