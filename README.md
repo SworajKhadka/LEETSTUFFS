@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0748-shortest-completing-word) |
+| [0796-rotate-string](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0804-unique-morse-code-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0821-shortest-distance-to-a-character) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1408-string-matching-in-an-array) |
 ## Dynamic Programming
 |  |
