@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1816-truncate-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1903-largest-odd-number-in-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2833-furthest-point-from-origin](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2833-furthest-point-from-origin) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1816-truncate-sentence) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1991-find-the-middle-index-in-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1991-find-the-middle-index-in-array) |
 | [2032-two-out-of-three](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2032-two-out-of-three) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2078-two-furthest-houses-with-different-colors) |
