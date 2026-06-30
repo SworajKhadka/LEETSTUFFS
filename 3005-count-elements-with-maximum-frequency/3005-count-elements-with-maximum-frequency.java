@@ -1,23 +1,23 @@
 class Solution {
     public int maxFrequencyElements(int[] nums) {
-        HashMap<Integer,Integer>map = new HashMap<>();
-        for(int key:nums){
-            map.put(key,map.getOrDefault(key,0)+1);
+        int n = nums.length;
+        HashMap<Integer,Integer> map = new HashMap<>();
+        for(int i:nums){
+            map.put(i,map.getOrDefault(i,0)+1);
 
         }
-        int maxfreq = 0;
-        for(int freq:map.values()){
-            if(maxfreq<freq){
-                maxfreq = freq;
+        int max = Integer.MIN_VALUE;
+        int sum = 0;
+        for(int p:map.keySet()){
+            max = Math.max(max,map.get(p));
+        }
+        for(Map.Entry<Integer,Integer> entry:map.entrySet()){
+            if(entry.getValue()>=max){
+                max = entry.getValue();
+                sum+=max;
             }
         }
-        //count the number of elements with that freq
-        int total = 0;
-        for(int freq:map.values()){
-            if(freq==maxfreq){
-                total+=freq;
-            }
-        }
-        return total;
+        return sum;
+        
     }
 }
