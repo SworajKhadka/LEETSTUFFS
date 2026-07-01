@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1323-maximum-69-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1360-number-of-days-between-two-dates](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1360-number-of-days-between-two-dates) |
+| [1512-number-of-good-pairs](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1903-largest-odd-number-in-string](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2235-add-two-integers) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1539-kth-missing-positive-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1512-number-of-good-pairs](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1512-number-of-good-pairs) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1748-sum-of-unique-elements) |
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1189-maximum-number-of-balloons](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2248-intersection-of-multiple-arrays](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2248-intersection-of-multiple-arrays) |
