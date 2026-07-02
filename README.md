@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0540-single-element-in-a-sorted-array) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0560-subarray-sum-equals-k) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3174-clear-digits) |
@@ -762,4 +765,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0128-longest-consecutive-sequence) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
