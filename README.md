@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0728-self-dividing-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0976-largest-perimeter-triangle) |
+| [1266-minimum-time-visiting-all-points](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1266-minimum-time-visiting-all-points) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1323-maximum-69-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1323-maximum-69-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1207-unique-number-of-occurrences) |
+| [1266-minimum-time-visiting-all-points](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1288-remove-covered-intervals) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -783,4 +785,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0496-next-greater-element-i) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
