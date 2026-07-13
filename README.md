@@ -507,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0386-lexicographical-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -797,4 +798,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1266-minimum-time-visiting-all-points) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
