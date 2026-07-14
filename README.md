@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2833-furthest-point-from-origin](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3146-permutation-difference-between-two-strings) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1408-string-matching-in-an-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2248-intersection-of-multiple-arrays) |
