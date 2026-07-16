@@ -1,15 +1,21 @@
 class Solution {
-    static public List<Integer> lexicalOrder(int n) {
+    public List<Integer> lexicalOrder(int n) {
         List<Integer> ans = new ArrayList<>();
-        for (int i = 1; i <= n; i++) {
-            ans.add(i);
-        }
 
-        ans.sort((a, b) -> {
-            String s1 = String.valueOf(a);
-            String s2 = String.valueOf(b);
-            return s1.compareTo(s2);
-        });
+        int curr = 1;
+
+        for (int i = 0; i < n; i++) {
+            ans.add(curr);
+
+            if (curr * 10 <= n) {
+                curr *= 10;                 // Go Down
+            } else {
+                while (curr % 10 == 9 || curr + 1 > n) {
+                    curr /= 10;             // Go Up
+                }
+                curr++;                     // Go Right
+            }
+        }
 
         return ans;
     }
