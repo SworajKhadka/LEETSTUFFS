@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0868-binary-gap](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0868-binary-gap) |
 | [2032-two-out-of-three](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2032-two-out-of-three) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Hash Table
