@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3483-unique-3-digit-even-numbers](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3701-compute-alternating-sum](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3701-compute-alternating-sum) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3146-permutation-difference-between-two-strings](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3146-permutation-difference-between-two-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3483-unique-3-digit-even-numbers](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -751,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2367-number-of-arithmetic-triplets) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3483-unique-3-digit-even-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
