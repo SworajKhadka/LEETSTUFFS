@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1816-truncate-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1903-largest-odd-number-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2000-reverse-prefix-of-word) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3174-clear-digits) |
 ## Recursion
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0867-transpose-matrix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3174-clear-digits](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3174-clear-digits) |
 | [3701-compute-alternating-sum](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3701-compute-alternating-sum) |
 ## Number Theory
