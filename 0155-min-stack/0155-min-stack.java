@@ -1,52 +1,49 @@
 class MinStack {
 
-    int[] stack;
-    int[] minStack;
-    int top;
+    Stack<Long> stack;
+    long min;
 
     public MinStack() {
-        stack = new int[10];
-        minStack = new int[10];
-        top = -1;
+        stack = new Stack<>();
     }
 
-    public void push(int value) {
+    public void push(int val) {
 
-        // Resize if array is full
-        if (top == stack.length - 1) {
-            int newSize = stack.length * 2;
-
-            int[] newStack = new int[newSize];
-            int[] newMinStack = new int[newSize];
-
-            for (int i = 0; i <= top; i++) {
-                newStack[i] = stack[i];
-                newMinStack[i] = minStack[i];
-            }
-
-            stack = newStack;
-            minStack = newMinStack;
+        if (stack.isEmpty()) {
+            stack.push((long) val);
+            min = val;
         }
-
-        top++;
-        stack[top] = value;
-
-        if (top == 0) {
-            minStack[top] = value;
-        } else {
-            minStack[top] = Math.min(value, minStack[top - 1]);
+        else if (val < min) {
+            long encoded = 2L * val - min;
+            stack.push(encoded);
+            min = val;
+        }
+        else {
+            stack.push((long) val);
         }
     }
 
     public void pop() {
-        top--;
+
+        long top = stack.pop();
+
+        if (top < min) {
+            min = 2L * min - top;
+        }
     }
 
     public int top() {
-        return stack[top];
+
+        long top = stack.peek();
+
+        if (top < min) {
+            return (int) min;
+        }
+
+        return (int) top;
     }
 
     public int getMin() {
-        return minStack[top];
+        return (int) min;
     }
 }
