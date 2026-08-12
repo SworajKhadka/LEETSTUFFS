@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2848-points-that-intersect-with-cars](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2848-points-that-intersect-with-cars) |
 | [2942-find-words-containing-character](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2848-points-that-intersect-with-cars](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2848-points-that-intersect-with-cars) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -754,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Queue
 |  |
 | ------- |
