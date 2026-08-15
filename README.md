@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0763-partition-labels) |
 | [0821-shortest-distance-to-a-character](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0821-shortest-distance-to-a-character) |
 | [0876-middle-of-the-linked-list](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0905-sort-array-by-parity) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0748-shortest-completing-word) |
+| [0763-partition-labels](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0763-partition-labels) |
 | [0796-rotate-string](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0804-unique-morse-code-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0821-shortest-distance-to-a-character) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0706-design-hashmap) |
 | [0748-shortest-completing-word](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0748-shortest-completing-word) |
+| [0763-partition-labels](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0763-partition-labels) |
 | [0804-unique-morse-code-words](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0904-fruit-into-baskets](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0904-fruit-into-baskets) |
@@ -599,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0763-partition-labels) |
 | [0976-largest-perimeter-triangle](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0976-largest-perimeter-triangle) |
 | [1323-maximum-69-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1323-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1903-largest-odd-number-in-string) |
