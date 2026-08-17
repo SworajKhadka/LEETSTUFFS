@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1002-find-common-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1207-unique-number-of-occurrences) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1266-minimum-time-visiting-all-points) |
@@ -765,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1652-defuse-the-bomb) |
@@ -814,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1991-find-the-middle-index-in-array) |
