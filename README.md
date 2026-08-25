@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2235-add-two-integers) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
