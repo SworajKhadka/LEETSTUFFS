@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0728-self-dividing-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0976-largest-perimeter-triangle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1266-minimum-time-visiting-all-points) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1323-maximum-69-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1323-maximum-69-number) |
