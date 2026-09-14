@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0647-palindromic-substrings) |
+| [0740-delete-and-earn](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0740-delete-and-earn) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Memoization
 |  |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0748-shortest-completing-word) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0706-design-hashmap) |
+| [0740-delete-and-earn](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0740-delete-and-earn) |
 | [0748-shortest-completing-word](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0748-shortest-completing-word) |
 | [0763-partition-labels](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0763-partition-labels) |
 | [0804-unique-morse-code-words](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/0804-unique-morse-code-words) |
