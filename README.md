@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3146-permutation-difference-between-two-strings](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3146-permutation-difference-between-two-strings) |
 | [3174-clear-digits](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3174-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3884-first-matching-character-from-both-ends) |
 ## String Matching
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3174-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/SworajKhadka/LEETSTUFFS/tree/master/3701-compute-alternating-sum) |
 ## Number Theory
 |  |
